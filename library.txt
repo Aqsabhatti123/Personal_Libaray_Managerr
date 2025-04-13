@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Nam",
+        "author": "Zain ahmed",
+        "year": 2023,
+        "genre": "fiction",
+        "read": true
+    },
+    {
+        "title": "Halal aur Haram",
+        "author": "Zain ahmed",
+        "year": 2022,
+        "genre": "fiction",
+        "read": true
+    },
+    {
+        "title": "Phool aur pattay",
+        "author": "Nimrah ahmed",
+        "year": 2000,
+        "genre": "fiction",
+        "read": true
+    },
+    {
+        "title": "Mala",
+        "author": "Nimrah ahmed",
+        "year": 2023,
+        "genre": "",
+        "read": false
+    },
+    {
+        "title": "Jannat kay pattay",
+        "author": "Nimrah Ahmed",
+        "year": 2000,
+        "genre": "fiction",
+        "read": true
+    }
+]
